@@ -59,3 +59,14 @@ yarn ios
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+
+### Note: All SDKs/platforms document i use in this project:
+Zustand: [https://github.com/pmndrs/zustand]
+
+AsyncStorage: [https://react-native-async-storage.github.io/async-storage/]
+
+ibantools: [https://simplify.github.io/ibantools/modules.html]
+
+react-native-picker-select: [https://github.com/lawnstarter/react-native-picker-select]
+
+### That's it. Thank you for giving me this test. Have a nice day.
