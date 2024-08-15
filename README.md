@@ -17,6 +17,7 @@ If you're on a Mac and developing for iOS, you need to install the pods (via Coc
 ```bash
 #using npx
 npx pod-install ios
+
 # OR using this 
 cd ios && pod install
 ```
